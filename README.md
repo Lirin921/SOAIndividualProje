@@ -1,0 +1,2 @@
+# SOAIndividualProje
+CityQuery
